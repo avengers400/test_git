@@ -1,0 +1,3512 @@
+[
+  {
+    "CriteriaRules": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN
+    ]
+  },
+  {
+    "CriteriaRules": "3c43ff29-5b19-4c77-9d4e-41c35bd22769",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "839ce1d3-d96c-475c-9787-164560f8a106",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN,
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5d211f33-640f-47d5-860d-20b8c4205597",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058; 640712918980; 668310515722; 699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "4e41e7a8-8172-4f4b-9b0a-7f017ad51d52",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c263b7a550e1fb6560c35",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "189714a1-0466-415e-b540-50b88e642cf4",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "Recon:EC2/Portscan",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "2f7c3244-102d-4e4d-bdb8-cdc169e18141",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "6b67bc0d-73c3-441a-b474-ddbee36dd42c",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "640712918980",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "UnauthorizedAccess:EC2/SSHBruteForce",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "7076b215-64de-443c-a49b-4eb2030019d8",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f67a550e1fb6560bcf",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f77a550e1fb6560bd3",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "640712918980",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "82b26701-6d4a-44d1-b792-ba8314dbe985",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "310c9be9-373e-483d-942b-40804f2b120b",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261a7a550e1fb6560c0b",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "42176a6a-06e2-4897-a53b-89189b110b9f",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "f11ce04f-398c-465d-81ba-148f0540288a",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25fa7a550e1fb6560bd7",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "265bfe2e-0674-4858-a934-139e16460749",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      NaN
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26217a550e1fb6560c12",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "a9b1c81f-f599-490d-9d9c-733391948a49",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261e7a550e1fb6560c10",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "668310515722",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "31438b61-b6dc-407a-adf1-58d7a53f5105",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "210265922058",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "Backdoor:EC2/Spambot",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "7bb18f75-9952-49c7-955b-2897a11d0fc0",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "664ee373-cb7a-4aa6-93db-667f6a6c9590",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26187a550e1fb6560c07",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "668310515722",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f97a550e1fb6560bd4",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "64334788-3bc0-11eb-adc1-0242ac120002",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "640712918980",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c264a7a550e1fb6560c4c",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "db7b4c32-0e11-4572-8a76-569323534f78",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26227a550e1fb6560c14",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "d817b2e7-f506-43b4-97e2-5e503bd2d1fd",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      NaN,
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "Stealth:IAMUser/CloudTrailLoggingDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "b008d1ef-f30c-421f-9348-da73c2bf599b",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "668310515722",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "Recon:EC2/Portscan",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN
+    ]
+  },
+  {
+    "CriteriaRules": "4e41e7a8-8172-4f4b-9b0a-7f017ad51d52",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058"
+    ]
+  },
+  {
+    "CriteriaRules": "82b26701-6d4a-44d1-b792-ba8314dbe985",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f67a550e1fb6560bcf",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "31438b61-b6dc-407a-adf1-58d7a53f5105",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "210265922058",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "b5437b0d-6476-45b6-a318-504a10b5ca1d",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "d9daf307-56b9-430b-8d4d-03115c690465",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c263b7a550e1fb6560c35",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "640712918980",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "3c43ff29-5b19-4c77-9d4e-41c35bd22769",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "7bb18f75-9952-49c7-955b-2897a11d0fc0",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "2f7c3244-102d-4e4d-bdb8-cdc169e18141",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "4e00da2c-b031-41be-806d-2795444e4196",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "640712918980",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26227a550e1fb6560c14",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "310c9be9-373e-483d-942b-40804f2b120b",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "839ce1d3-d96c-475c-9787-164560f8a106",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN,
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261e7a550e1fb6560c10",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "668310515722",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "265bfe2e-0674-4858-a934-139e16460749",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      NaN
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261a7a550e1fb6560c0b",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "6b67bc0d-73c3-441a-b474-ddbee36dd42c",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25fa7a550e1fb6560bd7",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c264a7a550e1fb6560c4c",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "d817b2e7-f506-43b4-97e2-5e503bd2d1fd",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      NaN,
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "f11ce04f-398c-465d-81ba-148f0540288a",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "1f050769-1e9d-415c-8ec3-43153e47aef1",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f77a550e1fb6560bd3",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "62506173-0c0d-4772-a212-2ed1e431df93",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "Policy:S3/BucketBlockPublicAccessDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "7076b215-64de-443c-a49b-4eb2030019d8",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "42176a6a-06e2-4897-a53b-89189b110b9f",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26187a550e1fb6560c07",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "668310515722",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "64334788-3bc0-11eb-adc1-0242ac120002",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "640712918980",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f97a550e1fb6560bd4",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "189714a1-0466-415e-b540-50b88e642cf4",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "2de88369-7754-4507-a08c-fdccab3560f5",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "b008d1ef-f30c-421f-9348-da73c2bf599b",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "668310515722",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "Stealth:IAMUser/CloudTrailLoggingDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "50930efe-3e9b-4d89-8026-da840f9c906b",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "6902189a-b59d-40f9-b882-8337946c93e6",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "db7b4c32-0e11-4572-8a76-569323534f78",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "a9b1c81f-f599-490d-9d9c-733391948a49",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "UnauthorizedAccess:EC2/SSHBruteForce",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "ce603728-d631-4bae-8657-c22da6e5944e",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "640712918980",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "Stealth:IAMUser/CloudTrailLoggingDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "66e6f364-0efb-4640-83f3-c9a0eedfd9ae",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "640712918980",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "b008d1ef-f30c-421f-9348-da73c2bf599b",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "668310515722",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26187a550e1fb6560c07",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "668310515722",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f97a550e1fb6560bd4",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "64334788-3bc0-11eb-adc1-0242ac120002",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "640712918980",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "6b67bc0d-73c3-441a-b474-ddbee36dd42c",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261e7a550e1fb6560c10",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "668310515722",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "Discovery:IAMUser/AnomalousBehavior",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261a7a550e1fb6560c0b",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "839ce1d3-d96c-475c-9787-164560f8a106",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN,
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "6b67bc0d-73c3-441a-b474-ddbee36dd42c",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN
+    ]
+  },
+  {
+    "CriteriaRules": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "640712918980",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26227a550e1fb6560c14",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "a9b1c81f-f599-490d-9d9c-733391948a49",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "640712918980",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "839ce1d3-d96c-475c-9787-164560f8a106",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN,
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "4e41e7a8-8172-4f4b-9b0a-7f017ad51d52",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058"
+    ]
+  },
+  {
+    "CriteriaRules": "31438b61-b6dc-407a-adf1-58d7a53f5105",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "210265922058",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261a7a550e1fb6560c0b",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f77a550e1fb6560bd3",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26187a550e1fb6560c07",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "668310515722",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f97a550e1fb6560bd4",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "64334788-3bc0-11eb-adc1-0242ac120002",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "640712918980",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261e7a550e1fb6560c10",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "668310515722",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "Stealth:IAMUser/CloudTrailLoggingDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "b008d1ef-f30c-421f-9348-da73c2bf599b",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "668310515722",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "Policy:S3/BucketBlockPublicAccessDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261a7a550e1fb6560c0b",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "6b67bc0d-73c3-441a-b474-ddbee36dd42c",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "640712918980",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "668310515722",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c261e7a550e1fb6560c10",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "668310515722",
+      "210265922058",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "640712918980",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f97a550e1fb6560bd4",
+    "Unique CriteriaCloudAccounts": [
+      "668310515722",
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26187a550e1fb6560c07",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "668310515722",
+      "897860998156",
+      "699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "64334788-3bc0-11eb-adc1-0242ac120002",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058",
+      "699183880494",
+      "640712918980",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f77a550e1fb6560bd3",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "839ce1d3-d96c-475c-9787-164560f8a106",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "699183880494",
+      "210265922058",
+      NaN,
+      "668310515722",
+      "640712918980"
+    ]
+  },
+  {
+    "CriteriaRules": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "897860998156",
+      "210265922058",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "210265922058",
+      "897860998156",
+      "699183880494",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "b008d1ef-f30c-421f-9348-da73c2bf599b",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "668310515722",
+      "897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "Stealth:IAMUser/CloudTrailLoggingDisabled",
+    "Unique CriteriaCloudAccounts": [
+      "640712918980",
+      "699183880494",
+      "210265922058",
+      "897860998156",
+      "668310515722"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c264a7a550e1fb6560c4d",
+    "Unique CriteriaCloudAccounts": []
+  },
+  {
+    "CriteriaRules": "95b2648a-f699-4425-81f9-57f8f4584fc1",
+    "Unique CriteriaCloudAccounts": []
+  },
+  {
+    "CriteriaRules": "a599dc85-0f82-44f0-bb5c-275657ec0eda",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "664ee373-cb7a-4aa6-93db-667f6a6c9590",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25e37a550e1fb6560ba9",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5f034e02-36b2-490c-943b-62f49393cb00",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f77a550e1fb6560bd2",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f67a550e1fb6560bd0",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c25f27a550e1fb6560bc9",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "96223bba-bf2d-4bb9-99f7-1ea2d9b6f8e9",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "19eef42e-77b1-4e33-a5e3-cd3d60fdbf00",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "5123680e-751c-4966-a88e-6c1e81079c04",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "156f2900-2bb3-471c-8f0a-02284cf585b7",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "9ba3563e-18b3-49c8-9b80-699000c0b1a0",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494; 897860998156"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26697a550e1fb6560c74",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "33a5948a-8973-4205-9c3e-7a5824104fa6",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "a10ada22-db08-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "eb04f5ff-99bc-41b1-88aa-b70977e859ff",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26797a550e1fb6560c97",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "cc702cee-4622-4c3d-b2db-1e388f51632a",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c14c779-7d1d-4e8f-8811-f5479d174f46",
+    "Unique CriteriaCloudAccounts": [
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266c7a550e1fb6560c7b",
+    "Unique CriteriaCloudAccounts": [
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "577792f3-88e2-4443-bda0-53fc404e82bf",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "602d5204-d78b-42ee-a2c0-7571052dd272",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c83",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "1536d0f5-7d35-47dc-a350-d62b0516c446",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c81",
+    "Unique CriteriaCloudAccounts": [
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266d7a550e1fb6560c7d",
+    "Unique CriteriaCloudAccounts": [
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a"
+    ]
+  },
+  {
+    "CriteriaRules": "856e5206-db4b-11ea-87d0-0242ac130003",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c78",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266b7a550e1fb6560c7a",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c26717a550e1fb6560c85",
+    "Unique CriteriaCloudAccounts": [
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266a7a550e1fb6560c76",
+    "Unique CriteriaCloudAccounts": [
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7"
+    ]
+  },
+  {
+    "CriteriaRules": "5c8c266e7a550e1fb6560c7f",
+    "Unique CriteriaCloudAccounts": [
+      "5753ada9-b8e5-45eb-b881-eebb4c292032",
+      "44442657-9012-44a9-9442-fd21b535ef72",
+      "b3e3dc77-ef79-47f1-a579-bb391d35203a",
+      "3e0620d4-6363-451c-aa1f-4435db78b266",
+      "2710f167-dbc7-4cfd-aadd-7fe59be1aca7",
+      "96e9e965-adbe-4ada-9e57-05d61fc39706",
+      "a79d42cd-9d0b-4212-861a-613ed6ce6608",
+      "91131009-c581-403b-b758-dea1e8ad5d69"
+    ]
+  },
+  {
+    "CriteriaRules": "5d211f33-640f-47d5-860d-20b8c4205597",
+    "Unique CriteriaCloudAccounts": [
+      "897860998156",
+      "210265922058; 640712918980; 668310515722; 699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "71efec0d-2010-4557-9332-5a27ffd16807",
+    "Unique CriteriaCloudAccounts": [
+      "210265922058; 640712918980; 668310515722; 699183880494"
+    ]
+  },
+  {
+    "CriteriaRules": "82b26701-6d4a-44d1-b792-ba8314dbe985",
+    "Unique CriteriaCloudAccounts": [
+      "699183880494",
+      "897860998156",
+      "210265922058; 897860998156"
+    ]
+  }
+]
