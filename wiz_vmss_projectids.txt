@@ -1,0 +1,34 @@
+query ProjectsTable($filterBy: ProjectFilters, $first: Int, $after: String, $orderBy: ProjectOrder, $analyticsSelection: ProjectIssueAnalyticsSelection) { projects(filterBy: $filterBy, first: $first, after: $after, orderBy: $orderBy) { nodes { id name slug cloudAccountCount repositoryCount securityScore entityCount technologyCount archived riskProfile { businessImpact } issueAnalytics(selection: $analyticsSelection) { issueCount scopeSize informationalSeverityCount lowSeverityCount mediumSeverityCount highSeverityCount } } pageInfo { hasNextPage endCursor } totalCount }}
+
+curl -X GET "YOUR_API_ENDPOINT/projects" \
+     -H "Authorization: Bearer YOUR_API_KEY" \
+     -H "Content-Type: application/json"
+
+
+curl -X GET "https://api.example.com/projects" \
+     -H "Authorization: Bearer YOUR_ACCESS_TOKEN" \
+     -H "Content-Type: application/json"
+
+curl -X POST {{endpoint_url}} \
+-H "Content-Type: application/json" \
+-H "Authorization: Bearer {{access_token}}" \
+-d '{
+  "query": "query ProjectsTable($filterBy: ProjectFilters, $first: Int, $after: String, $orderBy: ProjectOrder, $analyticsSelection: ProjectIssueAnalyticsSelection) { projects(filterBy: $filterBy, first: $first, after: $after, orderBy: $orderBy) { nodes { id name slug cloudAccountCount repositoryCount securityScore entityCount technologyCount archived riskProfile { businessImpact } issueAnalytics(selection: $analyticsSelection) { issueCount scopeSize informationalSeverityCount lowSeverityCount mediumSeverityCount highSeverityCount criticalSeverityCount } } pageInfo { hasNextPage endCursor } totalCount LBICount MBICount HBICount }}",
+  "variables": {
+    "first": 100,
+    "filterBy": {},
+    "orderBy": {
+      "field": "SECURITY_SCORE",
+      "direction": "ASC"
+    },
+    "analyticsSelection": {}
+  }
+}'
+
+
+Ratings- 94d50054-0fe2-4da1-8f81-2f8a3e08e276- 2312799f-d8f3-550c-8363-0b83fb6a0e23
+S1       4612729c-c07c-40f5-abfc-828b5184be8e  32273554-c895-524d-b721-3b696763914a
+SPDJI    235ff0a4-9a67-4ad8-8038-0f45e2a700c6  0754976a-0fd4-58f9-bde1-81548d6338e4(PROD) 350b7c3b-ab79-53e0-9eb1-3e19664d3d5c(NON-PROD)
+CI       4c9e9e0d-84ab-4c18-9f6b-7084b2d9ad73  11cf6a1c-08d3-5ffb-8330-4454c43f0ff7       8952efa5-e5f1-5960-9953-f7712cc1e0db(poc)
+DTS      7599897b-51b3-40ec-9546-89556d91e7c1  76f1a307-f3b5-535f-a241-d68c23a8e1c2
+MI       14bcd597-1421-44e5-a668-76b73c440754  039d76d0-a434-5139-ab04-4cdaebe80f11        
