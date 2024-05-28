@@ -1,0 +1,1458 @@
+[
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "86d7328a-5d75-411d-8afb-316f8402e239",
+        "value": "EBS Volume is not encrypted and attached to an instance.  This excludes the root volume."
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+        "value": "EC2 instance should be configured to use IMDSv2"
+    },
+    {
+        "matched key": "305fc570-c11e-4a76-b57a-ad75c5d27996",
+        "value": "ACM should not have certificates that are expired or expiring in the next 30 days"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5c8c263b7a550e1fb6560c35",
+        "value": "EC2 instance should not be created from a public Amazon Machine Image"
+    },
+    {
+        "matched key": "50930efe-3e9b-4d89-8026-da840f9c906b",
+        "value": "Elastic Load Balancer should have one or more listeners configured"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "62506173-0c0d-4772-a212-2ed1e431df93",
+        "value": "Elastic Load Balancer should have cross-zone load balancing enabled"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "265bfe2e-0674-4858-a934-139e16460749",
+        "value": "CloudFormation stack should not be in a drifted state"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c26027a550e1fb6560be3",
+        "value": "EC2 instance should not have administrator permissions"
+    },
+    {
+        "matched key": "5c8c263b7a550e1fb6560c35",
+        "value": "EC2 instance should not be created from a public Amazon Machine Image"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "7076b215-64de-443c-a49b-4eb2030019d8",
+        "value": "CloudFront distribution field-level encryption should be enabled"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "86d7328a-5d75-411d-8afb-316f8402e239",
+        "value": "EBS Volume is not encrypted and attached to an instance.  This excludes the root volume."
+    },
+    {
+        "matched key": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+        "value": "Route53 hosted zone records should be configured with health check"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "50930efe-3e9b-4d89-8026-da840f9c906b",
+        "value": "Elastic Load Balancer should have one or more listeners configured"
+    },
+    {
+        "matched key": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+        "value": "EC2 instance should be configured to use IMDSv2"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "e4444590-1316-4ddd-91cb-541c5c054820",
+        "value": "CloudFront distribution should be attached to WAF"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "db0e95af-f146-44a6-88a1-ed6614193912",
+        "value": "SQS queue should have encryption enabled"
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "5c8c264d7a550e1fb6560c52",
+        "value": "Redshift cluster should have audit logging enabled"
+    },
+    {
+        "matched key": "2f9da251-dbbf-408b-954c-fdcdd902aa1e",
+        "value": "CloudFront distribution access logging should be enabled"
+    },
+    {
+        "matched key": "657c46b7-1cd0-4cce-80bb-9d195f49c987",
+        "value": "Classic Load Balancer should have access logs enabled"
+    },
+    {
+        "matched key": "5c8c25ec7a550e1fb6560bbd",
+        "value": "EC2 security group should restrict public access to FTP control port (21)"
+    },
+    {
+        "matched key": "3c43ff29-5b19-4c77-9d4e-41c35bd22769",
+        "value": "Secrets Manager secret should be encrypted with a customer master key"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c265c7a550e1fb6560c63",
+        "value": "CloudTrail S3 bucket should have access logging enabled"
+    },
+    {
+        "matched key": "305fc570-c11e-4a76-b57a-ad75c5d27996",
+        "value": "ACM should not have certificates that are expired or expiring in the next 30 days"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+        "value": "Elastic Load Balancer should not have invalid HTTP headers"
+    },
+    {
+        "matched key": "3f0b8ac5-ed0d-48cc-a8e9-edde722a5848",
+        "value": "EKS cluster should restrict public access"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "5c8c26067a550e1fb6560beb",
+        "value": "IAM user account should not have multiple access keys"
+    },
+    {
+        "matched key": "62506173-0c0d-4772-a212-2ed1e431df93",
+        "value": "Elastic Load Balancer should have cross-zone load balancing enabled"
+    },
+    {
+        "matched key": "95b2648a-f699-4425-81f9-57f8f4584fc1",
+        "value": "RDS DB instance should not have deletion protection disabled"
+    },
+    {
+        "matched key": "cccdf6ca-3d4b-48c6-96bf-12894cfa5624",
+        "value": "ACM should not have a certificate with a wildcard domain"
+    },
+    {
+        "matched key": "5c8c264d7a550e1fb6560c53",
+        "value": "Redshift cluster should have user activity logging enabled"
+    },
+    {
+        "matched key": "5c8c264a7a550e1fb6560c4c",
+        "value": "RDS DB instance should have automatic minor version upgrades enabled"
+    },
+    {
+        "matched key": "5c8c264c7a550e1fb6560c4f",
+        "value": "Redshift cluster encryption should be enabled"
+    },
+    {
+        "matched key": "5c8c25ec7a550e1fb6560bbe",
+        "value": "EC2 security group should restrict public access over IPv4 to SSH port (22)"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "5c8c26167a550e1fb6560c03",
+        "value": "IAM root user account should require multi-factor authentication"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c25ec7a550e1fb6560bbe",
+        "value": "EC2 security group should restrict public access over IPv4 to SSH port (22)"
+    },
+    {
+        "matched key": "5c8c26097a550e1fb6560bef",
+        "value": "IAM policy should not have unlimited administrative privileges"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+        "value": "Elastic Load Balancer should not have invalid HTTP headers"
+    },
+    {
+        "matched key": "5c8c264d7a550e1fb6560c52",
+        "value": "Redshift cluster should have audit logging enabled"
+    },
+    {
+        "matched key": "4f5d7fa2-f377-4ce9-8076-e98c0208ee78",
+        "value": "EKS control plane should have controller manager logging enabled"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "e4444590-1316-4ddd-91cb-541c5c054820",
+        "value": "CloudFront distribution should be attached to WAF"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "5c8c264c7a550e1fb6560c4f",
+        "value": "Redshift cluster encryption should be enabled"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "d9daf307-56b9-430b-8d4d-03115c690465",
+        "value": "OpenSearch application logging should be enabled"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "3c43ff29-5b19-4c77-9d4e-41c35bd22769",
+        "value": "Secrets Manager secret should be encrypted with a customer master key"
+    },
+    {
+        "matched key": "7076b215-64de-443c-a49b-4eb2030019d8",
+        "value": "CloudFront distribution field-level encryption should be enabled"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "3f0b8ac5-ed0d-48cc-a8e9-edde722a5848",
+        "value": "EKS cluster should restrict public access"
+    },
+    {
+        "matched key": "084348fa-552d-4828-ba91-9c0e95d26c57",
+        "value": "Classic Load Balancer should have cross-zone load balancing enabled"
+    },
+    {
+        "matched key": "7a8a2e88-c8cf-462d-85fe-e821688afd11",
+        "value": "EKS control plane should have scheduler logging enabled"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "62506173-0c0d-4772-a212-2ed1e431df93",
+        "value": "Elastic Load Balancer should have cross-zone load balancing enabled"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "5c8c264d7a550e1fb6560c53",
+        "value": "Redshift cluster should have user activity logging enabled"
+    },
+    {
+        "matched key": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+        "value": "EC2 instance should be configured to use IMDSv2"
+    },
+    {
+        "matched key": "cf6babbf-49c0-43a8-93f0-972fc83a6573",
+        "value": "CloudFormation stack should not be configured with admin privileges"
+    },
+    {
+        "matched key": "5c8c26067a550e1fb6560beb",
+        "value": "IAM user account should not have multiple access keys"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "cccdf6ca-3d4b-48c6-96bf-12894cfa5624",
+        "value": "ACM should not have a certificate with a wildcard domain"
+    },
+    {
+        "matched key": "265bfe2e-0674-4858-a934-139e16460749",
+        "value": "CloudFormation stack should not be in a drifted state"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "d2075105-4b00-4e3c-8573-0f62d256e90d",
+        "value": "IAM user, group, or role should not have access to create Lambda functions with IAM roles and configure the functions as DynamoDB triggers"
+    },
+    {
+        "matched key": "4e00da2c-b031-41be-806d-2795444e4196",
+        "value": "OpenSearch search slow logging should be enabled"
+    },
+    {
+        "matched key": "b5437b0d-6476-45b6-a318-504a10b5ca1d",
+        "value": "OpenSearch index slow logging should be enabled"
+    },
+    {
+        "matched key": "42176a6a-06e2-4897-a53b-89189b110b9f",
+        "value": "OpenSearch service domain should restrict public access"
+    },
+    {
+        "matched key": "50930efe-3e9b-4d89-8026-da840f9c906b",
+        "value": "Elastic Load Balancer should have one or more listeners configured"
+    },
+    {
+        "matched key": "3a53f171-339b-46f3-abdc-2de7f3063fd9",
+        "value": "Auto Scaling group availability zone should match Elastic Load Balancer availability zone"
+    },
+    {
+        "matched key": "266ab640-f22b-4b79-993e-95e1c65fbb83",
+        "value": "EKS control plane should have authenticator logging enabled"
+    },
+    {
+        "matched key": "5f034e02-36b2-490c-943b-62f49393cb00",
+        "value": "OpenSearch policy should not allow unrestricted access for all users"
+    },
+    {
+        "matched key": "aae0bb31-a2e8-4256-8e05-cf9a7edb33ac",
+        "value": "EKS control plane should have audit logging enabled"
+    },
+    {
+        "matched key": "2f9da251-dbbf-408b-954c-fdcdd902aa1e",
+        "value": "CloudFront distribution access logging should be enabled"
+    },
+    {
+        "matched key": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+        "value": "EC2 instance should be configured to use IMDSv2"
+    },
+    {
+        "matched key": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+        "value": "Route53 hosted zone records should be configured with health check"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "5c8c26027a550e1fb6560be3",
+        "value": "EC2 instance should not have administrator permissions"
+    },
+    {
+        "matched key": "5c8c25ec7a550e1fb6560bbe",
+        "value": "EC2 security group should restrict public access over IPv4 to SSH port (22)"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "50930efe-3e9b-4d89-8026-da840f9c906b",
+        "value": "Elastic Load Balancer should have one or more listeners configured"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5c8c263b7a550e1fb6560c35",
+        "value": "EC2 instance should not be created from a public Amazon Machine Image"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "cccdf6ca-3d4b-48c6-96bf-12894cfa5624",
+        "value": "ACM should not have a certificate with a wildcard domain"
+    },
+    {
+        "matched key": "265bfe2e-0674-4858-a934-139e16460749",
+        "value": "CloudFormation stack should not be in a drifted state"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "3f0b8ac5-ed0d-48cc-a8e9-edde722a5848",
+        "value": "EKS cluster should restrict public access"
+    },
+    {
+        "matched key": "aae0bb31-a2e8-4256-8e05-cf9a7edb33ac",
+        "value": "EKS control plane should have audit logging enabled"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "95b2648a-f699-4425-81f9-57f8f4584fc1",
+        "value": "RDS DB instance should not have deletion protection disabled"
+    },
+    {
+        "matched key": "5c8c25ec7a550e1fb6560bbd",
+        "value": "EC2 security group should restrict public access to FTP control port (21)"
+    },
+    {
+        "matched key": "3fedf4d7-1177-45b3-899f-f0ea150d3c01",
+        "value": "EKS control plane should have API logging enabled"
+    },
+    {
+        "matched key": "db0e95af-f146-44a6-88a1-ed6614193912",
+        "value": "SQS queue should have encryption enabled"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "305fc570-c11e-4a76-b57a-ad75c5d27996",
+        "value": "ACM should not have certificates that are expired or expiring in the next 30 days"
+    },
+    {
+        "matched key": "7a8a2e88-c8cf-462d-85fe-e821688afd11",
+        "value": "EKS control plane should have scheduler logging enabled"
+    },
+    {
+        "matched key": "5c8c265c7a550e1fb6560c63",
+        "value": "CloudTrail S3 bucket should have access logging enabled"
+    },
+    {
+        "matched key": "7076b215-64de-443c-a49b-4eb2030019d8",
+        "value": "CloudFront distribution field-level encryption should be enabled"
+    },
+    {
+        "matched key": "2f9da251-dbbf-408b-954c-fdcdd902aa1e",
+        "value": "CloudFront distribution access logging should be enabled"
+    },
+    {
+        "matched key": "5c8c26037a550e1fb6560be5",
+        "value": "IAM should have MFA enabled"
+    },
+    {
+        "matched key": "266ab640-f22b-4b79-993e-95e1c65fbb83",
+        "value": "EKS control plane should have authenticator logging enabled"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "2de88369-7754-4507-a08c-fdccab3560f5",
+        "value": "EKS security group should restrict incoming traffic from ports other than TCP port 443"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "e4444590-1316-4ddd-91cb-541c5c054820",
+        "value": "CloudFront distribution should be attached to WAF"
+    },
+    {
+        "matched key": "4f5d7fa2-f377-4ce9-8076-e98c0208ee78",
+        "value": "EKS control plane should have controller manager logging enabled"
+    },
+    {
+        "matched key": "0fb44e99-d3d6-4623-86dd-2d9566041bbe",
+        "value": "EKS node group should use matching Amazon Machine Image and Kubernetes release versions"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c263b7a550e1fb6560c35",
+        "value": "EC2 instance should not be created from a public Amazon Machine Image"
+    },
+    {
+        "matched key": "86d7328a-5d75-411d-8afb-316f8402e239",
+        "value": "EBS Volume is not encrypted and attached to an instance.  This excludes the root volume."
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c265c7a550e1fb6560c63",
+        "value": "CloudTrail S3 bucket should have access logging enabled"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "cf6babbf-49c0-43a8-93f0-972fc83a6573",
+        "value": "CloudFormation stack should not be configured with admin privileges"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c26037a550e1fb6560be5",
+        "value": "IAM should have MFA enabled"
+    },
+    {
+        "matched key": "111e2dc0-e803-4b32-8bfa-f44502551281",
+        "value": "EC2 instance should not use default VPC"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "5c8c25e47a550e1fb6560bac",
+        "value": "CloudTrail log file should be encrypted"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "f11ce04f-398c-465d-81ba-148f0540288a",
+        "value": "KMS key should not be scheduled for deletion"
+    },
+    {
+        "matched key": "5c8c26067a550e1fb6560beb",
+        "value": "IAM user account should not have multiple access keys"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "5c8c263d7a550e1fb6560c38",
+        "value": "EC2 instance should not have a public IP address"
+    },
+    {
+        "matched key": "5c8c26227a550e1fb6560c14",
+        "value": "KMS service should be enabled"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+        "value": "Route53 hosted zone records should be configured with health check"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "4f5d7fa2-f377-4ce9-8076-e98c0208ee78",
+        "value": "EKS control plane should have controller manager logging enabled"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "5c8c26037a550e1fb6560be5",
+        "value": "IAM should have MFA enabled"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5c8c264a7a550e1fb6560c4c",
+        "value": "RDS DB instance should have automatic minor version upgrades enabled"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+        "value": "Route53 hosted zone records should be configured with health check"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "5c8c26027a550e1fb6560be3",
+        "value": "EC2 instance should not have administrator permissions"
+    },
+    {
+        "matched key": "266ab640-f22b-4b79-993e-95e1c65fbb83",
+        "value": "EKS control plane should have authenticator logging enabled"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "ec6d20f7-dc81-4e64-98df-5b9b95abdb18",
+        "value": "EC2 instance should be configured to use IMDSv2"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5932b183-dd61-46fe-af40-e4105f5c8189",
+        "value": "IAM user, group, or role should not have access to create and configure Lambda functions with IAM roles for cross-account access"
+    },
+    {
+        "matched key": "cccdf6ca-3d4b-48c6-96bf-12894cfa5624",
+        "value": "ACM should not have a certificate with a wildcard domain"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "3861c363-849f-4c5f-a4a3-e48465e08e81",
+        "value": "Route53 hosted zone records should be configured with health check"
+    },
+    {
+        "matched key": "5c8c264a7a550e1fb6560c4c",
+        "value": "RDS DB instance should have automatic minor version upgrades enabled"
+    },
+    {
+        "matched key": "3cd6f10b-6799-476d-b9fe-db590bdec205",
+        "value": "Route53 health check should be configured for monitoring"
+    },
+    {
+        "matched key": "7076b215-64de-443c-a49b-4eb2030019d8",
+        "value": "CloudFront distribution field-level encryption should be enabled"
+    },
+    {
+        "matched key": "db0e95af-f146-44a6-88a1-ed6614193912",
+        "value": "SQS queue should have encryption enabled"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "5c8c264d7a550e1fb6560c53",
+        "value": "Redshift cluster should have user activity logging enabled"
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+        "value": "Elastic Load Balancer should not have invalid HTTP headers"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "265bfe2e-0674-4858-a934-139e16460749",
+        "value": "CloudFormation stack should not be in a drifted state"
+    },
+    {
+        "matched key": "ab17b9a8-c319-40ee-9c0d-3c18293a4895",
+        "value": "S3 bucket should have block public access enabled"
+    },
+    {
+        "matched key": "82b26701-6d4a-44d1-b792-ba8314dbe985",
+        "value": "Secrets Manager secret should have automatic rotation enabled"
+    },
+    {
+        "matched key": "cf6babbf-49c0-43a8-93f0-972fc83a6573",
+        "value": "CloudFormation stack should not be configured with admin privileges"
+    },
+    {
+        "matched key": "5c8c25fb7a550e1fb6560bd8",
+        "value": "IAM user access key should be rotated every 90 days"
+    },
+    {
+        "matched key": "9ba3563e-18b3-49c8-9b80-699000c0b1a0",
+        "value": "Route53 hosted zone should contain a TXT record"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c26097a550e1fb6560bef",
+        "value": "IAM policy should not have unlimited administrative privileges"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c261b7a550e1fb6560c0c",
+        "value": "IAM users should not have policies attached"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c26067a550e1fb6560beb",
+        "value": "IAM user account should not have multiple access keys"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "156f2900-2bb3-471c-8f0a-02284cf585b7",
+        "value": "SNS topic policy should restrict access to required users"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c26037a550e1fb6560be5",
+        "value": "IAM should have MFA enabled"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "5c8c25fb7a550e1fb6560bd8",
+        "value": "IAM user access key should be rotated every 90 days"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "5c8c261c7a550e1fb6560c0e",
+        "value": "IAM user account should not have administrator privileges"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c25e47a550e1fb6560bac",
+        "value": "CloudTrail log file should be encrypted"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "5c8c263b7a550e1fb6560c35",
+        "value": "EC2 instance should not be created from a public Amazon Machine Image"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "993ece60-6a4e-497e-bf04-ad65dc9b8543",
+        "value": "Systems Manager managed instance patch should be in compliant status"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "48472edb-5a1a-48d2-9c46-fcbd81b5cebe",
+        "value": "WAFv2 web ACL should have rules defined"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c263d7a550e1fb6560c38",
+        "value": "EC2 instance should not have a public IP address"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "5c8c261a7a550e1fb6560c0b",
+        "value": "IAM groups should have one or more users defined"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "839ce1d3-d96c-475c-9787-164560f8a106",
+        "value": "IAM user, group, or role should generally not have access to update Lambda function versions"
+    },
+    {
+        "matched key": "5d211f33-640f-47d5-860d-20b8c4205597",
+        "value": "SNS topic should have encryption enabled"
+    },
+    {
+        "matched key": "1e025bc1-ff97-409f-982d-39a810d5fa25",
+        "value": "EC2 VPC Peering should not have cross account connection"
+    },
+    {
+        "matched key": "3f053c2e-2cfe-44b2-8a35-912a8ddb1270",
+        "value": "IAM user, group, or role should not have access to add users to groups"
+    },
+    {
+        "matched key": "bdc54b11-ece6-44b4-92a6-2bd3783fd0f2",
+        "value": "IAM user, group, or role should have MFA permissions restricted"
+    },
+    {
+        "matched key": "df70d6b1-fdca-4589-88d6-f9d08df4db0d",
+        "value": "Elastic Load Balancer should not have invalid HTTP headers"
+    },
+    {
+        "matched key": "5c8c25f37a550e1fb6560bca",
+        "value": "EC2 VPC default security group should restrict all access"
+    },
+    {
+        "matched key": "a9b1c81f-f599-490d-9d9c-733391948a49",
+        "value": "WAFv2 web ACL should be associated with a resource"
+    },
+    {
+        "matched key": "99d931f0-b2aa-4366-8a3f-bfc6d2e9286f",
+        "value": "IAM user, group, or role should not have access to create an EC2 instance and pass any IAM role"
+    },
+    {
+        "matched key": "c71c5c06-1911-4977-a5af-bb2642fccfda",
+        "value": "IAM user, group, or role should not have access to both edit assume role policies and assume IAM roles"
+    },
+    {
+        "matched key": "d19cb41d-ac6c-4e95-848a-48f0fe9a9176",
+        "value": "IAM user, group, or role should not have access to create, and invoke Lambda functions and pass any IAM role"
+    },
+    {
+        "matched key": "faad52af-c1e0-45f7-bb58-9e5cb4ab832c",
+        "value": "WAFv2 web ACL should have AWS Managed Core rule set"
+    },
+    {
+        "matched key": "d42158b9-c08d-4983-bade-5d5f478ce3bc",
+        "value": "IAM user, group, or role should require SSL/TLS when managing or viewing IAM access keys"
+    },
+    {
+        "matched key": "5c8c261e7a550e1fb6560c10",
+        "value": "IAM user credentials should be removed if inactive for 30 days of more"
+    },
+    {
+        "matched key": "5c8c26187a550e1fb6560c07",
+        "value": "IAM account should not be inactive for 90 days or longer"
+    },
+    {
+        "matched key": "ba73fb7e-3bc5-11eb-adc1-0242ac120002",
+        "value": "CloudWatch monitoring should be configured for any changes in AWS organizations"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "5c8c25f77a550e1fb6560bd3",
+        "value": "EC2 security group should restrict public access"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    },
+    {
+        "matched key": "3abf3147-ea53-4302-b237-caab4d764c77",
+        "value": "DDoS Protection Standard should be enabled"
+    }
+]

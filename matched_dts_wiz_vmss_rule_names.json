@@ -1,0 +1,162 @@
+[
+    {
+        "dts_vmss_rule": "EC2 VPC Peering should not have cross account connection",
+        "dts_wiz_rule": "VPC peering communication should be only between AWS VPCs who are members of the same AWS account"
+    },
+    {
+        "dts_vmss_rule": "SNS topic should have encryption enabled",
+        "dts_wiz_rule": "SNS Topic Server-Side Encryption (SSE) should be enabled"
+    },
+    {
+        "dts_vmss_rule": "EC2 VPC default security group should restrict all access",
+        "dts_wiz_rule": "Default Security Group attached to a VPC should not allow all traffic"
+    },
+    {
+        "dts_vmss_rule": "EC2 instance should be configured to use IMDSv2",
+        "dts_wiz_rule": "EC2 instance should use instance metadata service v2 (IMDSv2) / EC2 instance should use IMDSv2"
+    },
+    {
+        "dts_vmss_rule": "ACM should not have certificates that are expired or expiring in the next 30 days",
+        "dts_wiz_rule": "ACM certificate expires within 30 days"
+    },
+    {
+        "dts_vmss_rule": "Elastic Load Balancer should have one or more listeners configured",
+        "dts_wiz_rule": "Elastic Load Balancer should use SSL listeners"
+    },
+    {
+        "dts_vmss_rule": "WAFv2 web ACL should be associated with a resource",
+        "dts_wiz_rule": "Not present in WIZ "
+    },
+    {
+        "dts_vmss_rule": "CloudWatch monitoring should be configured for any changes in AWS organizations",
+        "dts_wiz_rule": "CloudWatch Alarm should monitor AWS Organization(We have mutiple controls in WIZ for cloud watch Alarm)"
+    },
+    {
+        "dts_vmss_rule": "WAFv2 web ACL should have rules defined",
+        "dts_wiz_rule": "WAF Web ACL default action is set to allow requests that do not match any rules"
+    },
+    {
+        "dts_vmss_rule": "CloudFront distribution field-level encryption should be enabled",
+        "dts_wiz_rule": "CloudFront encrypted data in transit should use TLS version 1.2 or higher"
+    },
+    {
+        "dts_vmss_rule": "Route53 hosted zone records should be configured with health check",
+        "dts_wiz_rule": "Not present in WIZ "
+    },
+    {
+        "dts_vmss_rule": "CloudFront distribution should be attached to WAF",
+        "dts_wiz_rule": "CloudFront distribution should be associated with a WAF web ACL"
+    },
+    {
+        "dts_vmss_rule": "EC2 security group should restrict public access",
+        "dts_wiz_rule": "EC2 Security Group should restrict uncommon ports access"
+    },
+    {
+        "dts_vmss_rule": "CloudFront distribution access logging should be enabled",
+        "dts_wiz_rule": "CloudFront distribution logging should be enabled"
+    },
+    {
+        "dts_vmss_rule": "Classic Load Balancer should have access logs enabled",
+        "dts_wiz_rule": "Classic Load Balancer access logging should be enabled"
+    },
+    {
+        "dts_vmss_rule": "EC2 security group should restrict public access to FTP control port (21)",
+        "dts_wiz_rule": "EC2 Security Group should restrict FTP access (TCP:21)"
+    },
+    {
+        "dts_vmss_rule": "CloudTrail S3 bucket should have access logging enabled",
+        "dts_wiz_rule": "S3 Bucket containing CloudTrail log files should have logging enabled / CloudTrail S3 Bucket has logging disabled"
+    },
+    {
+        "dts_vmss_rule": "Elastic Load Balancer should not have invalid HTTP headers",
+        "dts_wiz_rule": "Application Load Balancer should drop invalid headers"
+    },
+    {
+        "dts_vmss_rule": "EKS cluster should restrict public access",
+        "dts_wiz_rule": "EKS Cluster endpoint public access should be disabled"
+    },
+    {
+        "dts_vmss_rule": "ACM should not have a certificate with a wildcard domain",
+        "dts_wiz_rule": "ACM certificate domain name should not contain a wildcard"
+    },
+    {
+        "dts_vmss_rule": "EC2 security group should restrict public access over IPv4 to SSH port (22)",
+        "dts_wiz_rule": "EC2 Security Group should restrict SSH access (TCP:22)"
+    },
+    {
+        "dts_vmss_rule": "EKS control plane should have controller manager logging enabled",
+        "dts_wiz_rule": "EKS Cluster control plane logging should be enabled for all logging types"
+    },
+    {
+        "dts_vmss_rule": "OpenSearch application logging should be enabled",
+        "dts_wiz_rule": "OpenSearch (ElasticSearch) domain logs should be enabled"
+    },
+    {
+        "dts_vmss_rule": "Classic Load Balancer should have cross-zone load balancing enabled",
+        "dts_wiz_rule": "Classic Load Balancer cross-zone load balancing should be enabled"
+    },
+    {
+        "dts_vmss_rule": "EKS control plane should have scheduler logging enabled",
+        "dts_wiz_rule": "EKS Cluster control plane logging should be enabled for all logging types"
+    },
+    {
+        "dts_vmss_rule": "OpenSearch search slow logging should be enabled",
+        "dts_wiz_rule": "OpenSearch (ElasticSearch) domain search slow logs should be enabled"
+    },
+    {
+        "dts_vmss_rule": "OpenSearch index slow logging should be enabled",
+        "dts_wiz_rule": "OpenSearch (ElasticSearch) domain index slow logs should be enabled"
+    },
+    {
+        "dts_vmss_rule": "OpenSearch service domain should restrict public access",
+        "dts_wiz_rule": "OpenSearch (ElasticSearch) domain should not be publicly accessible"
+    },
+    {
+        "dts_vmss_rule": "EKS control plane should have authenticator logging enabled",
+        "dts_wiz_rule": "EKS Cluster control plane logging should be enabled for all logging types"
+    },
+    {
+        "dts_vmss_rule": "OpenSearch policy should not allow unrestricted access for all users",
+        "dts_wiz_rule": "OpenSearch (ElasticSearch) domain policy should not be overly permissive"
+    },
+    {
+        "dts_vmss_rule": "EKS control plane should have audit logging enabled",
+        "dts_wiz_rule": "EKS Cluster control plane logging should be enabled for all logging types"
+    },
+    {
+        "dts_vmss_rule": "EKS control plane should have API logging enabled",
+        "dts_wiz_rule": "EKS Cluster control plane logging should be enabled for all logging types"
+    },
+    {
+        "dts_vmss_rule": "EKS security group should restrict incoming traffic from ports other than TCP port 443",
+        "dts_wiz_rule": null
+    },
+    {
+        "dts_vmss_rule": "EKS node group should use matching Amazon Machine Image and Kubernetes release versions",
+        "dts_wiz_rule": null
+    },
+    {
+        "dts_vmss_rule": "EC2 instance should not use default VPC",
+        "dts_wiz_rule": "EC2 instance should not use the default VPC"
+    },
+    {
+        "dts_vmss_rule": "CloudTrail log file should be encrypted",
+        "dts_wiz_rule": "CloudTrail logs should be encrypted with SSE-KMS"
+    },
+    {
+        "dts_vmss_rule": "EC2 instance should not have a public IP address",
+        "dts_wiz_rule": "EC2 instance should not have a public IP address"
+    },
+    {
+        "dts_vmss_rule": "KMS service should be enabled",
+        "dts_wiz_rule": "Not present in WIZ "
+    },
+    {
+        "dts_vmss_rule": "Route53 hosted zone should contain a TXT record",
+        "dts_wiz_rule": "Not present in WIZ "
+    },
+    {
+        "dts_vmss_rule": "SNS topic policy should restrict access to required users",
+        "dts_wiz_rule": "SNS Topic policy should not allow all principals"
+    }
+]
