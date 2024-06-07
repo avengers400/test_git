@@ -1,0 +1,13 @@
+data = pd.read_csv('DTS_VMSS_SUPPRESSED_RULES.csv')
+
+print(data)
+
+# Group by CriteriaCloudAccounts and aggregate the CriteriaRules into a list
+grouped_data = data.groupby('CriteriaCloudAccounts')['CriteriaRules'].apply(list).reset_index()
+
+# Save the result to a new CSV file
+output_file_path = 'dts_segregated_criteria_rules.csv'
+grouped_data.to_csv(output_file_path, index=False)
+
+# Display the path to the saved file
+print(f"Segregated criteria rules have been saved to: {output_file_path}")
