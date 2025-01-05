@@ -1,0 +1,17 @@
+import boto3
+# from langchain.llms import BaseLLM
+# from langchain.prompts import PromptTemplate
+# from langchain.chains import LLMChain
+# from pydantic import Field
+from langchain_aws import ChatBedrock
+from langchain_aws import BedrockLLM
+
+
+# Step 1: Set up the AWS SDK for Amazon Bedrock (region: us-east-1)
+client = boto3.client('bedrock-runtime', region_name='us-east-1')  # Correct region
+#llm=ChatBedrock(model_id="cohere.command-text-v14",client=client)
+llm = BedrockLLM(model_id="cohere.command-text-v14", client=client)
+
+
+response=llm.invoke("what is the capital of India")
+print(response)
