@@ -1,0 +1,5 @@
+kubectl get nodes --no-headers -o custom-columns=":metadata.name" | ForEach-Object {
+>>     $node = $_
+>>     $podCount = (kubectl get pods --all-namespaces --field-selector spec.nodeName=$node --no-headers | Measure-Object -Line).Lines
+>>     Write-Output "$node $podCount"
+>> }
