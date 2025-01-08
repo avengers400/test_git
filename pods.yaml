@@ -1,0 +1,220 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-1
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 1 minute'; sleep 60; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-2
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 2 minutes'; sleep 120; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-3
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 3 minutes'; sleep 180; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-4
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 4 minutes'; sleep 240; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-5
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 5 minutes'; sleep 300; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-6
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 1 minute'; sleep 60; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-7
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 2 minutes'; sleep 120; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-8
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 3 minutes'; sleep 180; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-9
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 4 minutes'; sleep 240; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-10
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 5 minutes'; sleep 300; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-11
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 1 minute'; sleep 60; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-12
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 2 minutes'; sleep 120; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-13
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 3 minutes'; sleep 180; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-14
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 4 minutes'; sleep 240; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-15
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 5 minutes'; sleep 300; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-16
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 1 minute'; sleep 60; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-17
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 2 minutes'; sleep 120; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-18
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 3 minutes'; sleep 180; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-19
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 4 minutes'; sleep 240; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: self-destructive-pod-20
+spec:
+  containers:
+    - name: self-destructive-container
+      image: bitnami/kubectl:latest
+      command: [ "sh", "-c", "echo 'Pod running for 5 minutes'; sleep 300; echo 'Time to self-destruct'; kubectl delete pod $(hostname)" ]
+  restartPolicy: Never
